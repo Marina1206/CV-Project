@@ -1,0 +1,123 @@
+*{
+
+margin:0;
+padding:0;
+
+}
+
+body{
+
+  
+    background-color:rgb(220, 216, 226);
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+
+max-width: 1000px;
+background-color:rgb(230, 222, 252) ;
+margin: 0 auto;
+padding: 20px;
+
+
+
+}
+header{
+
+}
+.profile-image{
+
+    width: :100px;
+    height: 100px;
+    border:3px solid white;
+    border-radius:50%;
+    float:left;
+}
+.header-bio{
+float:left;
+padding: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+
+color:#11999E;
+
+}
+.header-cont{
+float:right;
+padding: 30px;
+color:rgb(154, 136, 223);
+margin:0;
+}
+.header-cont a{
+text-decoration: none;
+color:teal;
+font-weight:bold;
+
+}
+.header-cont a:hover{
+text-decoration: underline;
+color:tomato;
+
+}
+.div-clear{
+
+clear:both;
+
+}
+hr{
+border:solid rgb(30, 35, 39) 3px;
+width: 100;
+margin:20px auto;
+border-bottom:none;
+
+}
+#personal-section{
+
+}
+.content{
+
+    margin-bottom: 30px;
+
+}
+.left-div{
+
+width: 30%;
+float: left;
+}
+.right-div{
+width: 70%;
+float: right;
+
+
+}
+.div-clear{
+
+    clear:both;
+    
+    }
+.Common-hr{
+    border-color:  rgb(97, 201, 241) 3px;
+    border-bottom:none;
+    width: 100%;
+    margin:30 auto;
+}
+
+.edu-left{
+ float: left;
+ width: 45%;
+
+}
+.edu-right{
+float: right;
+width: 45%;
+}
+.left-skill{
+    
+ width: 30%;
+ float: left;
+}
+.right-skill{
+    
+ width: 70%;
+ float: right;
+}
